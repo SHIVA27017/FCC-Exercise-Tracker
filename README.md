@@ -1,1 +1,1 @@
-![My FCC Exercise Tracker](images/screenshot.png)
+![My FCC Exercise Tracker ](images/screenshot.png)
